@@ -1,0 +1,44 @@
+{
+  "agents": [
+    {
+      "id": 1,
+      "name": "Reyna",
+      "type": "Duelist"
+    },
+    {
+      "id": 2,
+      "name": "Sage",
+      "type": "Sentinel"
+    },
+    {
+      "id": 3,
+      "name": "Killjoy",
+      "type": "Sentinel"
+    },
+    {
+      "id": 4,
+      "name": "Raze",
+      "type": "Duelist"
+    },
+    {
+      "id": 5,
+      "name": "Kayo",
+      "type": "Initiator"
+    },
+    {
+      "id": 6,
+      "name": "Sova",
+      "type": "Initiator"
+    },
+    {
+      "id": 7,
+      "name": "Chamber",
+      "type": "Sentinel"
+    },
+    {
+      "name": "Harbor",
+      "type": "Controller",
+      "id": 1673648551234
+    }
+  ]
+}
